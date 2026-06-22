@@ -1,6 +1,5 @@
 # OpenAI API Exploration
-**Project URL:** [https://roadmap.sh/projects/openai-api-python](https://roadmap.sh/projects/openai-api-python) ```
-**Project Page:** [https://github.com/AnmolS05/OpenAI-API-in-Python](https://github.com/AnmolS05/OpenAI-API-in-Python)
+**Project URL:** [https://roadmap.sh/projects/openai-api-python](https://roadmap.sh/projects/openai-api-python)  **Project Page:** [https://github.com/AnmolS05/OpenAI-API-in-Python](https://github.com/AnmolS05/OpenAI-API-in-Python)
 
 This project demonstrates how to set up and use the OpenAI Python API, including configuring the client, managing environment variables, exploring parameters, and building a simple interactive chatbot.
 
